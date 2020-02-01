@@ -10,10 +10,11 @@ are stored in the test-data folder. A statement will be printed in the terminal 
 the user that the convolution was successfully generated.
 
 ## Tools Used
-  * Compiled Using gcc Version 7.4.0 on Ubuntu 18.04.01
+  * Compiled using gcc Version 7.4.0 on Ubuntu 18.04.01
   * Libraries included:
     * stdio.h
     * stdlib.h
+  * An executable is offered for those who do not want to compile the source code themselves
 
 ## Further Comments
 Feel free to clone and use, edit, or distribute at your leisure. I hope people find this program
